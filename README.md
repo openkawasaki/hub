@@ -1,9 +1,12 @@
 オープン川崎
 ----------------
 
-オープン川崎で見える化改善で利用したいツール
+https://waffle.io/openkawasaki/hub
+* 
 
-### Code for America(CfA)の3つのツール
+### オープン川崎で見える化改善で利用したいツール
+
+#### Code for America(CfA)の3つのツール
 
 1. CFAPI  
 世界中のブリゲイド情報を取り出すAPIです。グループのURL、場所、ニュースやGitHub上のプロジェクトの情報などが取得出来る
@@ -42,12 +45,11 @@ Brigade向けCMSツールでPHPで作成されています。Brigadeのプロジ
 	- [For Users](http://laddr.io)
 	- [For Developers](https://github.com/CfABrigadePhiladelphia/Laddr)
 
-
-### 参考
+#### 参考
 * [【ワークショップレポート】11/15開催「Brigade活動に有効なツールを一挙紹介！」](http://code4japan.org/post/103085419398/11-15-brigade-codef)
 
 
-### GitHubとwaffle.io
+#### GitHubとwaffle.io
 Code for SETAGAYAでの活用例です。GitHubとwaffle.ioを使った、Issue管理とWiki等は良いですね。
 
 * [Code for SETAGAYA waffle.io](https://waffle.io/codeforsetagaya/hub)
