@@ -46,7 +46,7 @@ Code for Japanのコンセプトに賛同し川崎市の地域社会の向上を
 
 ##### Doorkeeper
 
-* [Open Kawasaki]()http://openkawasaki.doorkeeper.jp/)
+* [Open Kawasaki](http://openkawasaki.doorkeeper.jp/)
 
 ##### connnpass
 
