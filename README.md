@@ -44,38 +44,35 @@ Code for Japanのコンセプトに賛同し川崎市の地域社会の向上を
 * [waffle.io](https://waffle.io/openkawasaki/hub)
 * [github](https://github.com/openkawasaki/hub)
 
+##### Webサイト
+* [オープン川崎](http://openkawasaki.org/)
+* [Code for Kawasaki](http://codeforkawasaki.org/)
+ 
 ##### Doorkeeper
-
-* [Open Kawasaki](http://openkawasaki.doorkeeper.jp/)
+* [オープン川崎](http://openkawasaki.doorkeeper.jp/)
 
 ##### connnpass
-
-* [Open Kawasaki](http://openkawasaki.connpass.com/)
+* [オープン川崎](http://openkawasaki.connpass.com/)
 * [Code for Kawasaki](http://codeforkawasaki.connpass.com/)
 
 ##### Meetup
-
-* TBD <http://www.meetup.com/>
+* オープン川崎(TBD) <http://www.meetup.com/>
 
 ##### facebook
-
 - [オープン川崎 / Code for Kawasaki 参加者グループ](https://www.facebook.com/groups/opendata.kawasaki/)
 - [オープン川崎 スタッフグループ](https://www.facebook.com/groups/585506098184117/)
 
 ##### LinkData
-
 - [オープン川崎](http://idea.linkdata.org/idea/idea1s332i)
 - [Code for Kawasaki](http://idea.linkdata.org/idea/idea1s198i)
 - [5374.jp](http://idea.linkdata.org/idea/idea1s423i)
 	- [5374(ｺﾞﾐﾅｼ).jp 神奈川県川崎市版](http://kawasaki.5374.jp/)
 
 ##### flickr
-
-- [open kawasaki](https://www.flickr.com/photos/125522323@N06/sets/72157645282851683/)
+- [オープン川崎](https://www.flickr.com/photos/125522323@N06/sets/72157645282851683/)
 
 ##### GitHub
-
-- [Open Kawasaki](https://github.com/orgs/openkawasaki/)
+- [オープン川崎](https://github.com/orgs/openkawasaki/)
 - [Code for Kawasaki](https://github.com/codeforkawasaki/)
 
 
