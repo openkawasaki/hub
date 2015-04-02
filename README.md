@@ -86,6 +86,17 @@ Code for Japanのコンセプトに賛同し川崎市の地域社会の向上を
 	- [Brigade Event](http://www.codeforamerica.org/brigade/events)
 	- [Code for America Brigade](http://www.codeforamerica.org/brigade/)
 
+2. Civic Tech Issue Finder  
+Github のIssueから「help wanted」等のタグがついているIssueを自動的に検索し表示できるサービスです。「help wanted」等のタグをつければ、世界中の人にお願いが出来ます
+
+	- [Citizen](http://www.codeforamerica.org/geeks/)
+	- [Issue Finder](https://github.com/codeforamerica/civic-issue-finder)
+3. Laddr  
+Brigade向けCMSツールでPHPで作成されています。Brigadeのプロジェクトや活動の可視化ができるようになってますので、BrigadeでWebサイトを作成するときには便利なツールです。
+
+	- [For Users](http://laddr.io)
+	- [For Developers](https://github.com/CfABrigadePhiladelphia/Laddr)
+
 ##### CfA公式Brigadeの登録情報 Googleスプレットシート
 [list of civic tech organizations](https://docs.google.com/a/codeforamerica.org/spreadsheet/ccc?key=0ArHmv-6U1drqdGNCLWV5Q0d5YmllUzE5WGlUY3hhT2c&usp=drive_web#gid=0)
 
@@ -106,16 +117,6 @@ Code for Japanのコンセプトに賛同し川崎市の地域社会の向上を
 		* type
 			Brigade, Code for Japan
 
-2. Civic Tech Issue Finder  
-Github のIssueから「help wanted」等のタグがついているIssueを自動的に検索し表示できるサービスです。「help wanted」等のタグをつければ、世界中の人にお願いが出来ます
-
-	- [Citizen](http://www.codeforamerica.org/geeks/)
-	- [Issue Finder](https://github.com/codeforamerica/civic-issue-finder)
-3. Laddr  
-Brigade向けCMSツールでPHPで作成されています。Brigadeのプロジェクトや活動の可視化ができるようになってますので、BrigadeでWebサイトを作成するときには便利なツールです。
-
-	- [For Users](http://laddr.io)
-	- [For Developers](https://github.com/CfABrigadePhiladelphia/Laddr)
 
 #### 参考
 * [【ワークショップレポート】11/15開催「Brigade活動に有効なツールを一挙紹介！」](http://code4japan.org/post/103085419398/11-15-brigade-codef)
