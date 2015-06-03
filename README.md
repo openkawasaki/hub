@@ -30,11 +30,11 @@ Code for Japanのコンセプトに賛同し川崎市の地域社会の向上を
 * 民主的なコミュニティ
 
 
-
 情報共有
 ----------------
 
 * [情報発信のポータルサイト](http://openkawasaki.org)
+* [Gmail](mail://openkawasaki@gmail.com)
 * メーリングリスト（Googleグループ)
 	- openkawasaki@googlegroups.com
 	- [メーリングリスト登録](https://groups.google.com/d/forum/openkawasaki)
@@ -46,6 +46,7 @@ Code for Japanのコンセプトに賛同し川崎市の地域社会の向上を
 * [イベント情報 (Meetup.com)](http://www.meetup.com/open_kawasaki/)
 * [プロジェクト管理 (GitHub)](https://github.com/openkawasaki/)
 * [共有メモ (HackPad)](https://openkawasaki.hackpad.com/)
+* [twitter @openkawasaki](https://twitter.com/openkawasaki)
 
 ### 旧情報
 
