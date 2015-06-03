@@ -34,7 +34,7 @@ Code for Japanのコンセプトに賛同し川崎市の地域社会の向上を
 ----------------
 
 * [情報発信のポータルサイト](http://openkawasaki.org)
-* [Gmail](mail://openkawasaki@gmail.com)
+* [Gmail](mailto:openkawasaki@gmail.com)
 * メーリングリスト（Googleグループ)
 	- openkawasaki@googlegroups.com
 	- [メーリングリスト登録](https://groups.google.com/d/forum/openkawasaki)
