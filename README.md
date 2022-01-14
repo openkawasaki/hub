@@ -31,31 +31,29 @@ Code for Japanのコンセプトに賛同し川崎市の地域社会の向上を
 
 情報共有
 ----------------
-
-* [Webサイト - 情報発信のポータルサイト](http://openkawasaki.org)
-* [メール (openkawasaki@gmail.com)](mailto:openkawasaki@gmail.com)
-* メーリングリスト（Googleグループ)
-	- [メール (openkawasaki@googlegroups.com)](mailto:openkawasaki@googlegroups.com)
-	- [メーリングリスト登録](https://groups.google.com/d/forum/openkawasaki)
+* [Webサイト](http://openkawasaki.org)
+* [連絡先メール (info@openkawasaki.org)](info@openkawasaki.org)
 * [Twitter (@openkawasaki)](https://twitter.com/openkawasaki)
+* [Facebookページ](https://www.facebook.com/openkawasaki/)
+* [Facebook参加者グループ](https://www.facebook.com/groups/opendata.kawasaki/)
 
 メンバー向け
 ----------
-
-* [チャット (Slack)](https://openkawasaki.slack.com)
-* [イベント情報 (Meetup.com)](http://www.meetup.com/open_kawasaki/)
-* [プロジェクト管理 (GitHub)](https://github.com/openkawasaki/)
-* [共有メモ (HackPad)](https://openkawasaki.hackpad.com/)
+* [ブログ(Medium)](https://medium.com/openkawasaki)
+* Discord
+    - [招待のリンク](https://discord.gg/zEsYCZ6)
+* [GitHub](https://github.com/openkawasaki/)
+* [イベントサイト(connpass)](https://openkawasaki.connpass.com/)
 
 関連サイト
 ----------------
-
-* [Localwiki - 川崎市](https://ja.localwiki.org/kawasaki/)
 * [LinkData.org](http://linkdata.org/)
   - [オープン川崎](http://idea.linkdata.org/idea/idea1s332i)
   - [Code for Kawasaki](http://idea.linkdata.org/idea/idea1s198i)
+* [Localwiki - 川崎市](https://ja.localwiki.org/kawasaki/)
 
-### 旧情報
-
+### 旧情報 (現在は稼働してません)
 * [Facebookグループ](https://www.facebook.com/groups/opendata.kawasaki/)
 * [Facebookページ](https://www.facebook.com/codeforkawasaki)
+* [Slack](https://openkawasaki.slack.com)
+    - [Slackに参加する](https://join.slack.com/t/openkawasaki/shared_invite/zt-4hbuav6c-Ttza18ObLreA6JZ6mvcyIw)
