@@ -35,11 +35,10 @@ Code for Japanのコンセプトに賛同し川崎市の地域社会の向上を
 * [連絡先メール (info@openkawasaki.org)](info@openkawasaki.org)
 * [Twitter (@openkawasaki)](https://twitter.com/openkawasaki)
 * [Facebookページ](https://www.facebook.com/openkawasaki/)
-* [Facebook参加者グループ](https://www.facebook.com/groups/opendata.kawasaki/)
+* [ブログ(Medium)](https://medium.com/openkawasaki)
 
 メンバー向け
 ----------
-* [ブログ(Medium)](https://medium.com/openkawasaki)
 * Discord
     - [招待のリンク](https://discord.gg/zEsYCZ6)
 * [GitHub](https://github.com/openkawasaki/)
